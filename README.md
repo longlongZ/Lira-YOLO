@@ -3,4 +3,4 @@
 
  the cfg for 1 class
  
- You can use my cfg based on YOLOv3.
+ You can use my cfg based on YOLOv3(darknet).
